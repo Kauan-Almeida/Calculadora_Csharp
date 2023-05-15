@@ -1,0 +1,17 @@
+C:\ws-C#\Aplicação_condicional\Aplicação_condicional\bin\Debug\net6.0-windows\Aplicação_condicional.exe
+C:\ws-C#\Aplicação_condicional\Aplicação_condicional\bin\Debug\net6.0-windows\Aplicação_condicional.deps.json
+C:\ws-C#\Aplicação_condicional\Aplicação_condicional\bin\Debug\net6.0-windows\Aplicação_condicional.runtimeconfig.json
+C:\ws-C#\Aplicação_condicional\Aplicação_condicional\bin\Debug\net6.0-windows\Aplicação_condicional.dll
+C:\ws-C#\Aplicação_condicional\Aplicação_condicional\bin\Debug\net6.0-windows\Aplicação_condicional.pdb
+C:\ws-C#\Aplicação_condicional\Aplicação_condicional\obj\Debug\net6.0-windows\Aplicação_condicional.csproj.AssemblyReference.cache
+C:\ws-C#\Aplicação_condicional\Aplicação_condicional\obj\Debug\net6.0-windows\Aplicação_condicional.Form1.resources
+C:\ws-C#\Aplicação_condicional\Aplicação_condicional\obj\Debug\net6.0-windows\Aplicação_condicional.csproj.GenerateResource.cache
+C:\ws-C#\Aplicação_condicional\Aplicação_condicional\obj\Debug\net6.0-windows\Aplicação_condicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-C#\Aplicação_condicional\Aplicação_condicional\obj\Debug\net6.0-windows\Aplicação_condicional.AssemblyInfoInputs.cache
+C:\ws-C#\Aplicação_condicional\Aplicação_condicional\obj\Debug\net6.0-windows\Aplicação_condicional.AssemblyInfo.cs
+C:\ws-C#\Aplicação_condicional\Aplicação_condicional\obj\Debug\net6.0-windows\Aplicação_condicional.csproj.CoreCompileInputs.cache
+C:\ws-C#\Aplicação_condicional\Aplicação_condicional\obj\Debug\net6.0-windows\Aplicação_condicional.dll
+C:\ws-C#\Aplicação_condicional\Aplicação_condicional\obj\Debug\net6.0-windows\refint\Aplicação_condicional.dll
+C:\ws-C#\Aplicação_condicional\Aplicação_condicional\obj\Debug\net6.0-windows\Aplicação_condicional.pdb
+C:\ws-C#\Aplicação_condicional\Aplicação_condicional\obj\Debug\net6.0-windows\Aplicação_condicional.genruntimeconfig.cache
+C:\ws-C#\Aplicação_condicional\Aplicação_condicional\obj\Debug\net6.0-windows\ref\Aplicação_condicional.dll
